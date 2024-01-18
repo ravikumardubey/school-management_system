@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="CyndiDB" uuid="6e654eea-4fa4-4322-950b-8707c49ea200">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://cyndiaws.cnc6vwz38bqf.ap-south-1.rds.amazonaws.com:5432/cyndidb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="CoronaDB" uuid="c46c75b5-3822-49a3-a512-6d82fa9070ce">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://coronaawsinstance.cnc6vwz38bqf.ap-south-1.rds.amazonaws.com:5432/coronadb</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="cyndi@localhost" uuid="834ab30b-c1ea-48c2-ad44-5efdd150d83b">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/cyndi</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="Cyndi_new" uuid="beed74aa-3d65-48f8-85c4-cf32e3c229c4">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://cyndiaws.cnc6vwz38bqf.ap-south-1.rds.amazonaws.com:5432/cyndi_new</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>

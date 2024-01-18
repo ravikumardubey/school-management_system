@@ -1,0 +1,728 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4de70f0e-dc39-469b-9994-b33c55cac1cb" name="Default Changelist" comment="Mering Issue fixed.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/auth/authentication.js" beforeDir="false" afterPath="$PROJECT_DIR$/app/auth/authentication.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="mohak" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupnpm">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectId" id="1Z7bBgK75bMh3octX3scO7y689l" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="redshift&#10;postgresql" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.data.extractors.current.export.id" value="JSON-Groovy.json.groovy" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.13.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.37" />
+    <property name="js.last.introduce.type" value="CONST" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/db" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.2.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lalit\Documents\Projects\Cyndi-Backend\db" />
+      <recent name="D:\Projects\Cyndi-Backend\db" />
+      <recent name="C:\Users\Cyndi\Documents\GitHub\Cyndi-Backend\db" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lalit\Documents\Projects\Cyndi-Backend\app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="NodeJSConfigurationType" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="app.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="app.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4de70f0e-dc39-469b-9994-b33c55cac1cb" name="Default Changelist" comment="" />
+      <created>1584192948130</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584192948130</updated>
+      <workItem from="1584192955044" duration="4340000" />
+      <workItem from="1584328193267" duration="6271000" />
+      <workItem from="1584696776315" duration="6046000" />
+      <workItem from="1587367005097" duration="4427000" />
+      <workItem from="1587531522627" duration="15000" />
+      <workItem from="1588334426579" duration="2326000" />
+      <workItem from="1588737601653" duration="1313000" />
+      <workItem from="1588767822626" duration="2759000" />
+      <workItem from="1588873475506" duration="4941000" />
+      <workItem from="1588908720775" duration="3733000" />
+      <workItem from="1588927427351" duration="6663000" />
+      <workItem from="1588994709135" duration="1079000" />
+      <workItem from="1589000230127" duration="10253000" />
+      <workItem from="1589081664125" duration="567000" />
+      <workItem from="1589084228144" duration="533000" />
+      <workItem from="1589084788713" duration="3740000" />
+      <workItem from="1589103616240" duration="1447000" />
+      <workItem from="1589107758222" duration="12630000" />
+      <workItem from="1589171329851" duration="1273000" />
+      <workItem from="1589210644192" duration="6381000" />
+      <workItem from="1589256871873" duration="1357000" />
+      <workItem from="1589269951142" duration="1236000" />
+      <workItem from="1589274775794" duration="4496000" />
+      <workItem from="1589356200205" duration="1852000" />
+      <workItem from="1589369423825" duration="285000" />
+      <workItem from="1589374389972" duration="8001000" />
+      <workItem from="1589566959078" duration="1721000" />
+      <workItem from="1589610095042" duration="11053000" />
+      <workItem from="1589648196638" duration="1784000" />
+      <workItem from="1589733496884" duration="2167000" />
+      <workItem from="1589776505453" duration="5321000" />
+      <workItem from="1589808037820" duration="595000" />
+      <workItem from="1589819200543" duration="2670000" />
+      <workItem from="1591595959371" duration="1293000" />
+      <workItem from="1591605454043" duration="3213000" />
+      <workItem from="1592065719730" duration="196000" />
+      <workItem from="1592066396552" duration="1419000" />
+      <workItem from="1592230571597" duration="3237000" />
+      <workItem from="1592302874499" duration="856000" />
+      <workItem from="1593421626541" duration="5340000" />
+      <workItem from="1593442341439" duration="1680000" />
+      <workItem from="1593459915735" duration="392000" />
+      <workItem from="1593462081753" duration="1170000" />
+      <workItem from="1593498834863" duration="270000" />
+      <workItem from="1593500912850" duration="2467000" />
+      <workItem from="1595835740087" duration="238000" />
+      <workItem from="1595836119481" duration="5045000" />
+      <workItem from="1595846463038" duration="1074000" />
+      <workItem from="1595863703626" duration="593000" />
+      <workItem from="1595946309835" duration="9645000" />
+      <workItem from="1596006996217" duration="596000" />
+      <workItem from="1596017407254" duration="6510000" />
+      <workItem from="1597388884778" duration="3393000" />
+      <workItem from="1597440499530" duration="2108000" />
+      <workItem from="1597445665538" duration="577000" />
+      <workItem from="1597446565909" duration="673000" />
+      <workItem from="1599037841749" duration="1906000" />
+      <workItem from="1600917738612" duration="59000" />
+      <workItem from="1602674619353" duration="1225000" />
+      <workItem from="1602741716811" duration="1622000" />
+      <workItem from="1603087287233" duration="243000" />
+      <workItem from="1603087647337" duration="4086000" />
+      <workItem from="1603782997473" duration="1218000" />
+      <workItem from="1604468472158" duration="15237000" />
+      <workItem from="1604548038273" duration="13459000" />
+      <workItem from="1604728696213" duration="15987000" />
+      <workItem from="1604898022191" duration="10545000" />
+      <workItem from="1605160273805" duration="1218000" />
+      <workItem from="1605596298215" duration="655000" />
+      <workItem from="1606119208566" duration="1754000" />
+      <workItem from="1606120977646" duration="2671000" />
+      <workItem from="1606205094254" duration="654000" />
+      <workItem from="1606207074143" duration="1433000" />
+      <workItem from="1606208883193" duration="1599000" />
+      <workItem from="1606300225474" duration="5550000" />
+      <workItem from="1606712704308" duration="8900000" />
+      <workItem from="1606798807878" duration="14930000" />
+      <workItem from="1606903416356" duration="3797000" />
+      <workItem from="1606972758454" duration="1592000" />
+      <workItem from="1608199662016" duration="1307000" />
+      <workItem from="1608208123299" duration="187000" />
+      <workItem from="1608271836219" duration="2116000" />
+      <workItem from="1608642765230" duration="5988000" />
+      <workItem from="1608701906533" duration="1561000" />
+      <workItem from="1609228988689" duration="596000" />
+      <workItem from="1609307973670" duration="1590000" />
+      <workItem from="1609739341890" duration="615000" />
+      <workItem from="1609935436822" duration="2034000" />
+      <workItem from="1610013056955" duration="5019000" />
+      <workItem from="1610094768949" duration="6812000" />
+      <workItem from="1610368897129" duration="843000" />
+      <workItem from="1610370685771" duration="5708000" />
+      <workItem from="1610437122995" duration="1544000" />
+      <workItem from="1610531893526" duration="4942000" />
+      <workItem from="1610540802227" duration="4043000" />
+      <workItem from="1610602592730" duration="3416000" />
+      <workItem from="1610687078588" duration="8914000" />
+      <workItem from="1610782444719" duration="5493000" />
+      <workItem from="1610963866877" duration="7414000" />
+      <workItem from="1611032427643" duration="7116000" />
+      <workItem from="1611041712714" duration="10757000" />
+      <workItem from="1611118587580" duration="5817000" />
+      <workItem from="1611126786101" duration="14116000" />
+      <workItem from="1611205302485" duration="16899000" />
+      <workItem from="1611292188594" duration="100000" />
+      <workItem from="1611380697685" duration="5928000" />
+      <workItem from="1611556023967" duration="8199000" />
+      <workItem from="1611648015166" duration="3263000" />
+      <workItem from="1611729399540" duration="1145000" />
+      <workItem from="1611811278380" duration="138000" />
+      <workItem from="1611813529171" duration="17362000" />
+      <workItem from="1611896735334" duration="5072000" />
+      <workItem from="1611985201713" duration="1830000" />
+      <workItem from="1612178317907" duration="2526000" />
+      <workItem from="1612247423394" duration="6890000" />
+      <workItem from="1612336896985" duration="18458000" />
+      <workItem from="1612431593544" duration="11833000" />
+      <workItem from="1612506826639" duration="3729000" />
+      <workItem from="1612514320682" duration="9276000" />
+      <workItem from="1612544825030" duration="1205000" />
+      <workItem from="1612546316456" duration="299000" />
+      <workItem from="1612588994578" duration="19987000" />
+      <workItem from="1612624728467" duration="22013000" />
+      <workItem from="1612802224427" duration="1805000" />
+      <workItem from="1612849234462" duration="16528000" />
+      <workItem from="1612935256867" duration="12002000" />
+      <workItem from="1613020654864" duration="9134000" />
+      <workItem from="1613116469117" duration="1258000" />
+      <workItem from="1613125019536" duration="49000" />
+      <workItem from="1613204704786" duration="3589000" />
+      <workItem from="1613371026584" duration="4945000" />
+      <workItem from="1613539428065" duration="4465000" />
+      <workItem from="1613626492849" duration="1561000" />
+      <workItem from="1613632690266" duration="400000" />
+      <workItem from="1613644301924" duration="1988000" />
+      <workItem from="1613647249262" duration="1151000" />
+      <workItem from="1613714332758" duration="5107000" />
+      <workItem from="1613740839270" duration="5202000" />
+      <workItem from="1613803849898" duration="4598000" />
+      <workItem from="1613973235273" duration="3649000" />
+      <workItem from="1613979927643" duration="6230000" />
+      <workItem from="1614003604969" duration="28000" />
+      <workItem from="1614079195631" duration="8356000" />
+      <workItem from="1614232130823" duration="8920000" />
+      <workItem from="1614315027705" duration="38317000" />
+      <workItem from="1614488272396" duration="2030000" />
+      <workItem from="1614524390042" duration="7113000" />
+      <workItem from="1614661777360" duration="14268000" />
+      <workItem from="1614748586579" duration="4628000" />
+      <workItem from="1614834094326" duration="2683000" />
+      <workItem from="1614840453686" duration="9477000" />
+      <workItem from="1615009211878" duration="293000" />
+      <workItem from="1615009511866" duration="31000" />
+      <workItem from="1615009651671" duration="4749000" />
+      <workItem from="1615198908180" duration="2759000" />
+      <workItem from="1615266144070" duration="2138000" />
+      <workItem from="1615281358170" duration="3153000" />
+      <workItem from="1615353209873" duration="10419000" />
+      <workItem from="1615456707226" duration="158000" />
+      <workItem from="1615462681085" duration="3118000" />
+      <workItem from="1615527635265" duration="12617000" />
+      <workItem from="1615616327276" duration="6723000" />
+      <workItem from="1615658561398" duration="1505000" />
+      <workItem from="1615735624700" duration="650000" />
+      <workItem from="1615793293015" duration="5871000" />
+      <workItem from="1615873679886" duration="2889000" />
+      <workItem from="1615956524019" duration="3447000" />
+      <workItem from="1616157541281" duration="5010000" />
+      <workItem from="1616216709593" duration="13605000" />
+      <workItem from="1616253554025" duration="728000" />
+      <workItem from="1616570632499" duration="4333000" />
+      <workItem from="1616654605765" duration="2550000" />
+      <workItem from="1616389557623" duration="15433000" />
+      <workItem from="1616429203146" duration="621000" />
+      <workItem from="1616436351224" duration="24000" />
+      <workItem from="1616483684395" duration="2048000" />
+      <workItem from="1616511172593" duration="594000" />
+      <workItem from="1616562676654" duration="609000" />
+      <workItem from="1616573423083" duration="2014000" />
+      <workItem from="1616649262258" duration="832000" />
+      <workItem from="1616654685548" duration="7346000" />
+      <workItem from="1616735467628" duration="2080000" />
+      <workItem from="1616825902410" duration="618000" />
+      <workItem from="1616827439689" duration="6346000" />
+      <workItem from="1616995632181" duration="1188000" />
+      <workItem from="1617083376228" duration="2594000" />
+      <workItem from="1617169700441" duration="7617000" />
+      <workItem from="1617256270973" duration="3375000" />
+      <workItem from="1617341041098" duration="8499000" />
+      <workItem from="1617427163329" duration="14082000" />
+      <workItem from="1617599787489" duration="3189000" />
+    </task>
+    <task id="LOCAL-00003" summary="Old Code, updating the code with better code practices. Security has been implemented, needs completing.">
+      <created>1604513635453</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1604513635453</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Old Code, updating the code with better code practices. Security has been implemented and tested. Add class's APIs have been written, needs testing.">
+      <created>1604751324560</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604751324560</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Login and Registration fixed and tested">
+      <created>1606916167317</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606916167317</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Firebase Auth Token API implemented">
+      <created>1609311407674</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1609311407674</updated>
+    </task>
+    <task id="LOCAL-00007" summary="FCM Token API improved and SQl file created">
+      <created>1610534973669</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610534973669</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Notification update and Profile Setting issues fixed.">
+      <created>1610550863004</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610550863004</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Notifications finalized.">
+      <created>1610737388063</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610737388063</updated>
+    </task>
+    <task id="LOCAL-00010" summary="get/add News added">
+      <created>1611058200726</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1611058200726</updated>
+    </task>
+    <task id="LOCAL-00011" summary="search/get/add for resource and people">
+      <created>1611145974387</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1611145974387</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Some API fixes">
+      <created>1611567252666</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1611567252666</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Some API fixes">
+      <created>1611588832193</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1611588832193</updated>
+    </task>
+    <task id="LOCAL-00014" summary="get syllabus and resources apis added">
+      <created>1611751395305</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1611751395305</updated>
+    </task>
+    <task id="LOCAL-00015" summary="API pushed and updated">
+      <created>1612344779173</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1612344779173</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Zoom APIs added and tested, routes formattting improved.">
+      <created>1612365906082</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1612365906082</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Zoom APIs added and tested, routes formattting improved.">
+      <created>1612367052052</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1612367052052</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Zoom APIs added and tested, routes formattting improved.">
+      <created>1612466422876</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1612466422876</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add EducationNotification">
+      <created>1612516629022</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1612516629022</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Add EducationNotification">
+      <created>1612517074397</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1612517074397</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Zoom's Meeting's logic improved">
+      <created>1612543995483</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1612543995483</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Zoom's Meeting's logic improved, Notifications finalized.">
+      <created>1612616776820</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1612616776820</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Zoom's Meeting's logic Finalized">
+      <created>1612796720631</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1612796720635</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Add ChapterPlan Added">
+      <created>1613041034220</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1613041034220</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Add ChapterPlan Added">
+      <created>1613049744698</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1613049744698</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Add ChapterPlan Added">
+      <created>1613124461279</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1613124461279</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Add ChapterPlan Added">
+      <created>1613539707352</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1613539707352</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Minor Changes">
+      <created>1613727644811</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1613727644811</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Few API Changes">
+      <created>1614003622861</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1614003622861</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Few API Changes">
+      <created>1614403428547</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1614403428547</updated>
+    </task>
+    <task id="LOCAL-00031" summary="QES and PandA API changes.">
+      <created>1614428964080</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1614428964080</updated>
+    </task>
+    <task id="LOCAL-00032" summary="API updates">
+      <created>1614620408753</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1614620408753</updated>
+    </task>
+    <task id="LOCAL-00033" summary="API updates">
+      <created>1614694075771</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1614694075771</updated>
+    </task>
+    <task id="LOCAL-00034" summary="API updates">
+      <created>1614864203220</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1614864203220</updated>
+    </task>
+    <task id="LOCAL-00035" summary="API updates">
+      <created>1615469868940</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1615469868940</updated>
+    </task>
+    <task id="LOCAL-00036" summary="API updates">
+      <created>1615529117860</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1615529117860</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Class Code Added, APIs Created and implemented.">
+      <created>1616162344611</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1616162344611</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Mailer Added. Class Logic of Referral implemented.">
+      <created>1616236453344</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1616236453344</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Mailer Added. Class Logic of Referral implemented.">
+      <created>1616244420819</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1616244420819</updated>
+    </task>
+    <task id="LOCAL-00040" summary="classController.js and notificationController.js have been created.">
+      <created>1616410472902</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1616410472902</updated>
+    </task>
+    <task id="LOCAL-00041" summary="classController.js and notificationController.js have been created.">
+      <created>1616419345636</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1616419345636</updated>
+    </task>
+    <task id="LOCAL-00042" summary="classController.js and notificationController.js have been created.">
+      <created>1616419485241</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1616419485241</updated>
+    </task>
+    <task id="LOCAL-00043" summary="classController.js and notificationController.js have been created.">
+      <created>1616575234037</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1616575234037</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Add Class, LiveClass get and add apis improved.">
+      <created>1616764834474</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1616764834474</updated>
+    </task>
+    <task id="LOCAL-00045" summary="Add Class, LiveClass get and add apis improved. Role has been changed to integer, Password has been rolled back to be sent from Frontend">
+      <created>1617171358265</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1617171358265</updated>
+    </task>
+    <task id="LOCAL-00046" summary="Add Class, LiveClass get and add apis improved. Role has been changed to integer, Password has been rolled back to be sent from Frontend">
+      <created>1617200673697</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1617200673697</updated>
+    </task>
+    <task id="LOCAL-00047" summary="Add Class, LiveClass get and add apis improved. Role has been changed to integer, Password has been rolled back to be sent from Frontend">
+      <created>1617200694234</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1617200694234</updated>
+    </task>
+    <task id="LOCAL-00048" summary="Add Class, LiveClass get and add apis improved. Role has been changed to integer, Password has been rolled back to be sent from Frontend">
+      <created>1617366052855</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1617366052855</updated>
+    </task>
+    <task id="LOCAL-00049" summary="GetZoomMeetingRecording API added, Empty response bug fixed from many APIs.">
+      <created>1617448142375</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1617448142375</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Mering Issue fixed.">
+      <created>1617602263425</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1617602263425</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Mering Issue fixed.">
+      <created>1617602336049</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1617602336049</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="FCM Token API improved and SQl file created" />
+    <MESSAGE value="Notification update and Profile Setting issues fixed." />
+    <MESSAGE value="Notifications finalized." />
+    <MESSAGE value="get/add News added" />
+    <MESSAGE value="search/get/add for resource and people" />
+    <MESSAGE value="Some API fixes" />
+    <MESSAGE value="get syllabus and resources apis added" />
+    <MESSAGE value="API pushed and updated" />
+    <MESSAGE value="Zoom APIs added and tested, routes formattting improved." />
+    <MESSAGE value="Add EducationNotification" />
+    <MESSAGE value="Zoom's Meeting's logic improved" />
+    <MESSAGE value="Zoom's Meeting's logic improved, Notifications finalized." />
+    <MESSAGE value="Zoom's Meeting's logic Finalized" />
+    <MESSAGE value="Add ChapterPlan Added" />
+    <MESSAGE value="Minor Changes" />
+    <MESSAGE value="Few API Changes" />
+    <MESSAGE value="QES and PandA API changes." />
+    <MESSAGE value="API updates" />
+    <MESSAGE value="Class Code Added, APIs Created and implemented." />
+    <MESSAGE value="Mailer Added. Class Logic of Referral implemented." />
+    <MESSAGE value="classController.js and notificationController.js have been created." />
+    <MESSAGE value="Add Class, LiveClass get and add apis improved." />
+    <MESSAGE value="Add Class, LiveClass get and add apis improved. Role has been changed to integer, Password has been rolled back to be sent from Frontend" />
+    <MESSAGE value="GetZoomMeetingRecording API added, Empty response bug fixed from many APIs." />
+    <MESSAGE value="Mering Issue fixed." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mering Issue fixed." />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

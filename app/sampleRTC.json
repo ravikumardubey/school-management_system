@@ -1,0 +1,40 @@
+{
+  "v": {
+    "iceServers": [
+      {
+        "url": "stun:bn-turn1.xirsys.com"
+      },
+      {
+        "username": "AkXHI9-i6t9-JXqq4_fc3F348eNwIEVpfiUfEEsAqmkYNq4_p9mqxKYz38g-GzvMAAAAAGBLOBlGYXV6ZGFyMQ==",
+        "url": "turn:bn-turn1.xirsys.com:80?transport=udp",
+        "credential": "9b2f8bb8-8317-11eb-9e9b-0242ac140004"
+      },
+      {
+        "username": "AkXHI9-i6t9-JXqq4_fc3F348eNwIEVpfiUfEEsAqmkYNq4_p9mqxKYz38g-GzvMAAAAAGBLOBlGYXV6ZGFyMQ==",
+        "url": "turn:bn-turn1.xirsys.com:3478?transport=udp",
+        "credential": "9b2f8bb8-8317-11eb-9e9b-0242ac140004"
+      },
+      {
+        "username": "AkXHI9-i6t9-JXqq4_fc3F348eNwIEVpfiUfEEsAqmkYNq4_p9mqxKYz38g-GzvMAAAAAGBLOBlGYXV6ZGFyMQ==",
+        "url": "turn:bn-turn1.xirsys.com:80?transport=tcp",
+        "credential": "9b2f8bb8-8317-11eb-9e9b-0242ac140004"
+      },
+      {
+        "username": "AkXHI9-i6t9-JXqq4_fc3F348eNwIEVpfiUfEEsAqmkYNq4_p9mqxKYz38g-GzvMAAAAAGBLOBlGYXV6ZGFyMQ==",
+        "url": "turn:bn-turn1.xirsys.com:3478?transport=tcp",
+        "credential": "9b2f8bb8-8317-11eb-9e9b-0242ac140004"
+      },
+      {
+        "username": "AkXHI9-i6t9-JXqq4_fc3F348eNwIEVpfiUfEEsAqmkYNq4_p9mqxKYz38g-GzvMAAAAAGBLOBlGYXV6ZGFyMQ==",
+        "url": "turns:bn-turn1.xirsys.com:443?transport=tcp",
+        "credential": "9b2f8bb8-8317-11eb-9e9b-0242ac140004"
+      },
+      {
+        "username": "AkXHI9-i6t9-JXqq4_fc3F348eNwIEVpfiUfEEsAqmkYNq4_p9mqxKYz38g-GzvMAAAAAGBLOBlGYXV6ZGFyMQ==",
+        "url": "turns:bn-turn1.xirsys.com:5349?transport=tcp",
+        "credential": "9b2f8bb8-8317-11eb-9e9b-0242ac140004"
+      }
+    ]
+  },
+  "s": "ok"
+}
